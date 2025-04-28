@@ -1,22 +1,20 @@
 # DataScience
-Hello, I'm Alex, a passionate Data Scientist specializing in data Science, machine learning, data cleaning, and predictive modeling.
 
-Extracting, cleaning, and analyzing data using SQL and Python to derive actionable insights.
+Hello, I'm Alex, a passionate Data Scientist specializing in data science, machine learning, data cleaning, and predictive modeling.
 
-Developing and deploying predictive models using machine learning techniques for forecasting and classification tasks.
+- **Extracting, cleaning, and analyzing data** using SQL and Python to derive actionable insights.
+- **Developing and deploying predictive models** using machine learning techniques for forecasting and classification tasks.
+- **Conducting exploratory data analysis (EDA)** to uncover patterns, trends, and correlations in complex datasets.
+- **Performing advanced data manipulation, aggregation, and reporting** with tools like Google Sheets and Excel.
 
-Conducting exploratory data analysis (EDA) to uncover patterns, trends, and correlations in complex datasets.
-
-Performing advanced data manipulation, aggregation, and reporting with tools like Google Sheets and Excel.
-
-📂 Projects
+## 📂 Projects
 Welcome to my portfolio, where I showcase my Data Science projects.
 
-🧰 Tools
-Language: Python, SQL
-Database: PostgreSQL, MySQL
-Visualization: Matplotlib, Seaborn, Plotly
+## 🧰 Tools
+- **Language:** Python, SQL
+- **Database:** PostgreSQL, MySQL
+- **Visualization:** Matplotlib, Seaborn, Plotly
 
-🔗 Connect with Me
-www.linkedin.com/in/alexmontanomogica
+## 🔗 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/alexmontanomogica)
 
